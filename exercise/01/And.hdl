@@ -14,5 +14,11 @@ CHIP And {
     OUT out;
 
     PARTS:
-    // Put your code here:
+    // Put your code heresewsss
+    a = in ;
+    b = in ;
+    if (a==b)
+        out = a or b
+    else:
+        out != a
 }
